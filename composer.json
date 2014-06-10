@@ -1,0 +1,8 @@
+{
+    "autoload": {
+        "psr-0": {"Ajedrez\\": "src/"},
+        "psr-1": {"Ficha\\": "src/"}
+
+
+    }
+}
